@@ -25,7 +25,7 @@
         let search = $('#search').val();
 
         /* Cada vez que el usuario escribe una letra dentro del elemento input con 
-        id: search, se alamcenará en la variable search, concatenando los valores,
+        id: search, se almacenará en la variable search, concatenando los valores,
         según se vayan agregando
         console.log(search);*/
 
